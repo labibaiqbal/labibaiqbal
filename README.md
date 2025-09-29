@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 I’m Labiba Iqbal!
+
+💻 **About me:** Computer Engineering grad from the University of Waterloo, passionate about building software that makes life easier and data smarter. From frontend React apps to full-stack Django projects, I love creating practical solutions with clean code.
+🌱 **Currently learning:** Advanced full-stack development, cloud integration (AWS), and cybersecurity techniques.
+🎵 **Life outside code:** Music, coffee, random walks, baking
+📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/labiba-iqbal/) | [Email](mailto:labiba.iqbal@uwaterloo.ca) 
+
 
 <!--
 **labibaiqbal/labibaiqbal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
